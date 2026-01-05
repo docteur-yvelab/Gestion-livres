@@ -1,17 +1,9 @@
-Documentation du Projet
-Système de Gestion de Bibliothèque
-THIAKOU
-Janvier 2026
-Table des matières
-1 Présentation du Projet 2
-2 Fonctionnalités Implémentées 2
-3 Architecture Technique 2
-4 Instructions de Compilation 2
-5 Analyse Algorithmique 2
-5.1 La Suppression dans un Tableau . . . . . . . . . . . . . . . . . . . . . . . . 2
-5.2 Complexité . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-6 Conclusion 3
-1
+                            Documentation du Projet:
+                        Système de Gestion de Bibliothèque
+                                    THIAKOU
+        Janvier 2026
+
+
 Présentation du Projet
 Ce projet consiste en un système de gestion de bibliothèque robuste développé en
 Java. Il met en application des concepts avancés de structures de données et d’algorithmes
